@@ -1,0 +1,8 @@
+文字化け
+https://hikonblog.blogspot.com/2017/05/intellij-idea.html
+
+emacs key bind
+https://qiita.com/crossroad0201/items/eecc87dd1c0258148167 (edited) 
+https://pleiades.io/help/idea/managing-plugins.html (edited) 
+https://www.jetbrains.com/help/idea/settings-preferences-dialog.html (edited) 
+https://www.jetbrains.com/help/idea/configuring-keyboard-and-mouse-shortcuts.html
