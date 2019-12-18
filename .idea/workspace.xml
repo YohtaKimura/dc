@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b07b1cfc-f487-49ad-b7da-04a901ef60d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dc1_3/AboutDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dc1_3/ChangeBackgroundColorActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dc1_3/ChangeFontActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dc1_3/ChangeFontColorActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dc1_3/ChangeFontSizeActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dc1_3/DigitalClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dc1_3/DigitalClockCanvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dc1_3/DigitalClockWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dc1_2/DigitalClockCanvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dc1_2/DigitalClockCanvas.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +33,9 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="dc" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,11 +50,22 @@
   <component name="ProjectId" id="1RVUxoMoV30kWeWFwGhHb3rZzK9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build/classes/java/main/dc1_3" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\p000527032\Desktop\dc\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\p000527032\Desktop\dc\build\classes\java\main\dc1_3" />
+      <recent name="C:\Users\p000527032\Desktop\dc\src" />
+      <recent name="C:\Users\p000527032\Desktop\dc\src\main" />
+      <recent name="C:\Users\p000527032\Desktop\dc\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,13 +79,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DigitalClock">
+  <component name="RunManager" selected="Application.DigitalClock (1)">
     <configuration name="Dc1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dc1_1.Dc1_1" />
       <module name="dc.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="dc1_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DigitalClock (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dc1_3.DigitalClock" />
+      <module name="dc.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dc1_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,6 +121,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DigitalClock (1)" />
         <item itemvalue="Application.DigitalClock" />
         <item itemvalue="Application.Dc1_1" />
       </list>

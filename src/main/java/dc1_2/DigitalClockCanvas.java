@@ -24,7 +24,7 @@ class DigitalClockCanvas extends Canvas implements Runnable {
     private BufferStrategy bufferStrategy;
 
     public DigitalClockCanvas(String title) {
-        setForeground(new Color(0, 255, 0));
+        setForeground(new Color(38, 255, 50, 255));
         setBackground(new Color(50, 50, 50));
         new DigitalClockFrame(title, this);
         createBufferStrategy(BUFFER_SIZE);
